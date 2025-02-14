@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 
+- :ear: My name is RoboMarchello  
+- :seedling: I’m currently working on improving my algorithmic programming (CodeForces & Algotester) 
+- :video_game: I love **game development**, **physical simulations**, and **computer graphics**
+- :muscle: Pygame-ce fan
+- :persevere: Kind of busy with school
 
 <!--
 **Robomarchello/RoboMarchello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
